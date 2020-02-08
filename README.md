@@ -7,4 +7,7 @@ https://blog.twitch.tv/en/2015/12/18/twitch-engineering-an-introduction-and-over
 
 https://www.twitch.tv/jobs/
 
+
+http://www.atc.uniovi.es/teleco/5tm/archives/9streaming.pdf
+
 ````
