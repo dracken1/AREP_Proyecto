@@ -10,4 +10,6 @@ https://www.twitch.tv/jobs/
 
 http://www.atc.uniovi.es/teleco/5tm/archives/9streaming.pdf
 
+
+https://es.slideshare.net/olafrv/digital-streaming-architecture-125050983
 ````
