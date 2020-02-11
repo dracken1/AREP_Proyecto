@@ -15,4 +15,7 @@ https://es.slideshare.net/olafrv/digital-streaming-architecture-125050983
 
 
 https://www.xataka.com/seleccion/28-plataformas-streaming-suscripcion-para-sacarles-partido-verano
+
+
+https://www.wowza.com/blog/streaming-protocols#rtmp
 ````
